@@ -6,3 +6,5 @@ We design and analyze a new zeroth-order online algorithm, namely, the zeroth-or
 See details in paper "Zeroth-Order Online Alternating Direction Method of Multipliers: Convergence Analysis and Applications", AISTATS, 2018
 
 Authors: Sijia Liu, Jie Chen, Pin-Yu Chen, and Alfred O. Hero
+
+For questions, please contact lsjxjtu@gmail.com
